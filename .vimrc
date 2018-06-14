@@ -7,6 +7,7 @@ Plug 'vim-scripts/snipMate'
 Plug 'kien/ctrlp.vim'
 Plug 'tpope/vim-surround'
 Plug 'vim-scripts/cscope.vim'
+Plug 'rust-lang/rust.vim'
 
 call plug#end()
 
